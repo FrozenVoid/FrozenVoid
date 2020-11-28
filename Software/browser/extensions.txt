@@ -6,10 +6,10 @@ TabMixPlus
 Stylus/Stylem
 Dorando Keyconfig
 Classic Addons Archive
-NoScript(more complete vs UBlock domain script blocking)
+
 ----
 Password Exporter(rarely used)
-Github WC polyfill(palemoon fix for github WebComponents, currently broken)
+Github WC polyfill(palemoon fix for github WebComponents)
 
 
 
