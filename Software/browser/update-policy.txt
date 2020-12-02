@@ -1,0 +1,2 @@
+I always manually update, due PaleMoon incompatibilities/quirks/problems
+with some extensions.
