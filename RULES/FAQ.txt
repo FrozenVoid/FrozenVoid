@@ -1,0 +1,99 @@
+Q:Does this document replace Code of Conduct? 
+A:This document is an alternative to Codes of Conduct, that 
+makes possible to establish concrete metric for consensus forming,
+without introducing subjective and biased opinions based on politics, 
+religion or personal belief. This metric is logical validity of argument.
+
+Q:Does RULES.txt allow any group-based discrimination?
+A:No. This is covered by rule #1 Ad-hominem attacks.
+Unlike a Code of Conduct, such action would be only relevant if
+a person makes argument based on it, not expressing his opinion outside
+of relevant discussion on the project(s). 
+
+Q:Does RULES.txt enforce any specific tone?
+A:No. It doesn't enforce any tone, but creates a requirement that content
+in discussion must be logically valid: this excludes certain types of
+argument which use violate the rules of rational discussion by 
+using emotion-based techniques to advance their claims.
+
+Q:Does using pure logic dehumanize the discussion?
+A:Humans tend to use emotional arguments to dehumanize each other.
+This document prevent such abuse of language to be considered valid:
+With strict application of logical validity rules, the amount of irrational,
+emotional and inductive reasoning that currently passes as an argument
+will be reduced substantially.
+
+Q:This document doesn't specify punishment for rule violations, why?
+A:A logical flaw in an a post, itself being identified as a fallacy
+and dismissed as rule violation(closed/locked),is 
+a sufficient 'punishment' form that doesn't require specific authority
+or person-centric approach with reputation being considered.
+The rule violating post(logically invalid content) can be pointed out by anyone
+and identified/removed/amended to improve the discussion without
+making judgement on the person, banning users and alienating contributors.
+
+Q:What is the process for adding/expanding rules?
+A:The rule must address a logical fallacy, be clear and specific in scope.
+Rules cannot contain subjective and emotional reasoning.
+Rules have to be back by non-opinion reasoning: logical structure
+of a rule cannot contain specific exemptions
+( https://en.wikipedia.org/wiki/Special_pleading  ) or
+special case categories( https://en.wikipedia.org/wiki/No_true_Scotsman )
+
+Formal process to add/expand:
+An expansion of a rule, have to be pull request into Rules/ directory,
+where ruleN.X.txt article is inserted(N-category number, x-Article).
+An addition of a rule, requires the above and change of readme.txt.
+Example pull request:
+1.you want to expand and define Stawman rule
+to add; create a branch with  'Rules/Rule.1.e.txt'
+create: pull request with expanded and clarified
+The pull request has to contain a valid argument
+proving the necessity of adding/expanding this specific rules.
+Each rule-related pull request has to be about a singular rule issue:
+ be specific and address one argument/file/rule at a time.
+
+
+
+
+
+Q:How to interpret a rule definition?
+A:A detailed description from wikipedia or if its insufficient:
+https://www.logicalfallacies.org/ 
+Inventing your own definitions and interpretation will not be 
+accepted, but Rules/ directory can contain specific, expanded and precise
+definitions if they're proved to be logically valid and relevant to
+explaining the specific details of a rule that are missing from other sources:
+Contradicting wikipedia or https://www.logicalfallacies.org/ as source
+of authority is not an argument(Appeal to authority),
+the rule definition itself has to stand 
+on its own and use references to all claims that are not under the control
+of the author(you cannot edit-war Wikipedia to change a logical fallacy article
+and proclaim its new definition as current year truth).
+
+Q:Does a fallacy make a post invalid?
+A:No. This doesn't invalidate the truth value of content, but a structure
+and reasoning of an argument: see https://en.wikipedia.org/wiki/Argument_from_fallacy
+The rules don't make any claim on truth, but validity of logic used:
+A logically invalid post can contain true statements but such statements
+are not necessary valid premises for an argument(it is like offtopic commentary).
+
+Q:How does this project deal with mentally ill?
+A:The project will not accomodate/promote any mental illness, by
+requiring adding specific pronouns/terms on demand(such as e.g. 'His Majesty' for people claiming to be Napoleon and demanding to be addressed as such), as this approach
+will only exacerbate the person's condition justifying them to do
+more extreme stunts to get attention: e.g. plastic surgery to look more like Napoleon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
