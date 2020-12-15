@@ -1,0 +1,8 @@
+//dorando keyconfig.
+F1 if ("gPageStyleMenu" in window)gPageStyleMenu.disableStyle();
+F5 reload f5
+F6 Close tab F6
+F7 back f7
+F8 Undo close tab f8
+
+
