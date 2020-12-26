@@ -1,0 +1,4 @@
+javascript:location.href="https://db-ip.com/"+document.getSelection().toString()
+javascript:location.href=("https://ssl.microsofttranslator.com/bv.aspx?ref=TVert&from=&to=en&a="+location.href)
+
+javascript:window.location.href="https://outline.com/"+window.location.href
