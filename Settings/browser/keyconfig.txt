@@ -4,5 +4,6 @@ F5 Browser :Reload skip cache
 F6 Close tab F6
 F7 back f7
 F8 Undo close tab f8
+F9 Bookmark this page:call PlacesCommandHook.bookmarkCurrentPage(true, PlacesUtils.bookmarksMenuFolderId)
 
 
